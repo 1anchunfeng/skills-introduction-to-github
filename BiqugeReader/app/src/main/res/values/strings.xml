@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">笔趣阁阅读器</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_bookshelf">书架</string>
+    <string name="menu_profile">我的</string>
+</resources>
